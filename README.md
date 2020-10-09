@@ -10,3 +10,5 @@
 
 * I create Discord bots/selfbots and Token loggers in C#
 * I create Minecraft hacks in Java
+* I am the developer of ZihaszHax, Summit+
+* I am the dev of PyroCrack token logger
