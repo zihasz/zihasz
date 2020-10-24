@@ -10,5 +10,4 @@
 
 * I create Discord bots
 * I create Minecraft hacks in Java
-* I am the developer of ZihaszHax, Summit+
-* I am the dev of PyroCrack token logger
+* I am the developer of ZihaszHax, Summit+ and KAMI Green
