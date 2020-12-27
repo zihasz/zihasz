@@ -6,8 +6,7 @@
 * Im a Discord developer
 * Im a C# developer
 
-### What do I do?
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zihasz)]
 
-* I create Discord bots
-* I create Minecraft hacks in Java
-* I am the developer of ZihaszHax, Summit+ and KAMI Green
+### Current projects
+* ZWare.cc - A minecraft utility mod for anarchy servers, currently private.
