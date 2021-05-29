@@ -1,6 +1,8 @@
 # Hi I'm Zihasz!
 
 ![Zihasz's GitHub stats](https://github-readme-stats.vercel.app/api?username=zihasz&show_icons=true&theme=dracula&count_private=true)
+![Zihasz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zihasz&langs_count=8&theme=dracula)
+![Youtube Downloader](https://github-readme-stats.vercel.app/api/pin/?username=zihasz&repo=youtube-downloader&theme=dracula)
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
