@@ -1,8 +1,7 @@
 # Hi I'm Zihasz!
 
-![Youtube Downloader](https://github-readme-stats.vercel.app/api/pin/?username=zihasz&repo=youtube-downloader&theme=dracula)<br/>
 ![Zihasz's GitHub stats](https://github-readme-stats.vercel.app/api?username=zihasz&show_icons=true&theme=dracula&count_private=true)<br/>
-![Zihasz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zihasz&langs_count=8&theme=dracula)
+![Youtube Downloader](https://github-readme-stats.vercel.app/api/pin/?username=zihasz&repo=youtube-downloader&theme=dracula)<br/>
 
 # Who am I?
 
