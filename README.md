@@ -1,5 +1,7 @@
 # Hi I'm Zihasz!
 
+![Zihasz's GitHub stats](https://github-readme-stats.vercel.app/api?username=zihasz&show_icons=true&theme=dracula&count_private=true)
+
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
 
