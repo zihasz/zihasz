@@ -7,8 +7,9 @@
 - Case + PCB: [KBD75 V2 Soldered](https://kbdfans.com/collections/75-diy-kit/products/kbd75v2-custom-keyboard-diy-kit?variant=28725491138608) - 1x - $196.00
     - Foam: [KBD75 Case Foam ](https://kbdfans.com/collections/kbd75-v2/products/kbd75-case-foam) - 1x - $10.00
     - Plate: [KBD75 Polycarbonate Plate ](https://kbdfans.com/collections/kbd75-v2/products/kbd75-pc-plate) - 1x - $22.00
+    - Weight: [KBF75 V2 Brass Weight](https://kbdfans.com/collections/75-layout-case/products/b84-brass-weight) - 1x - $29.00
 - Keycaps: [Artifact Bloom Series Keycap Set: Rainbow](https://drop.com/buy/artifact-bloom-series-keycap-set-rainbow) - 1x - $39
     - WASD: [Teamwolf Stainless Steel MX Keycaps](https://drop.com/buy/teamwolf-stainless-steel-mx-keycaps) - 1x - $25
     - Artisan: [Gen.S Processor Resin Artisan Keycap](https://drop.com/buy/gen-s-processor-resin-artisan-keycap) - 1x - $35
 
-- Total: $442.90
+- Total: $471.90
