@@ -13,3 +13,5 @@
     - Artisan: [Gen.S Processor Resin Artisan Keycap](https://drop.com/buy/gen-s-processor-resin-artisan-keycap) - 1x - $35
 
 - Total: $471.90
+- Base: $344.50
+- Extra: $127.40
